@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+div #data {
+  margin-top: 2vh;
+}
